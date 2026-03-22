@@ -1,0 +1,23 @@
+import java.util.HashMap;
+
+class Solution {
+    public int singleNumber(int[] nums) {
+        HashMap<Integer, Integer> numbers = new HashMap<>();
+        
+        // 1. Count the frequency of each number
+        for (int i = 0; i < nums.length; i++) {
+            int currentNum = nums[i];
+            // If the number exists, add 1 to its count. If not, default to 0 and add 1.
+            numbers.put(currentNum, numbers.getOrDefault(currentNum, 0) + 1);
+        }
+        
+        // 2. Find the number with a frequency of exactly 1
+        for (int key : numbers.keySet()) {
+            if (numbers.get(key) == 1) {
+                return key; // Found the single number
+            }
+        }
+        
+        return -1; // Fallback return statement
+    }
+}

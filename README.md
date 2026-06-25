@@ -1,1 +1,1 @@
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=EjYWbH52J7&theme=dark)](https://leetcode.com/u/EjYWbH52J7/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/EjYWbH52J7/)

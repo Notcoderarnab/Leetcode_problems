@@ -1,1 +1,2 @@
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/EjYWbH52J7/)
+### 💻 Competitive Programming
+* **LeetCode:** [EjYWbH52J7](https://leetcode.com/u/EjYWbH52J7/) — Check out my solved problems and coding stats!
